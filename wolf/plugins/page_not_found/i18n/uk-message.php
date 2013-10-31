@@ -8,5 +8,5 @@
 
 return array(
     'Page not found' => 'Сторінку не знайдено',
-    'Provides Page not found page types.' => 'Забезпечує типи сторінок з повідомленням "Сторінку не знайдено".'
+    'Provides Page not found page types.' => 'Забезпечує різновиди сторінок з повідомленням "Сторінку не знайдено".'
 );
