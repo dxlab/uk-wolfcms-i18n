@@ -1,7 +1,7 @@
 uk-wolfcms-i18n
 ===============
 
-Ukrainian language files for the Wolf CMS core and plugins
+Ukrainian language files for the Wolf CMS core and plugins (v.7.7)
 
 # WOLF CMS
 
